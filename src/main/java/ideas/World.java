@@ -1,3 +1,7 @@
+package ideas;
+
+import sun.org.mozilla.javascript.ast.Block;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;

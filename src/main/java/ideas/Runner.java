@@ -1,3 +1,5 @@
+package ideas;
+
 import java.util.Scanner;
 
 /**

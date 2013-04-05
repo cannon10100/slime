@@ -1,3 +1,5 @@
+package ideas;
+
 /**
  * Created with IntelliJ IDEA.
  * User: s619532
